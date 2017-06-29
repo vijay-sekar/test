@@ -1,0 +1,9 @@
+text {
+  font: 10px sans-serif;
+  fill: #000; 
+}
+
+.title {
+  font-size: 15px;
+  font-weight: bold;
+}
